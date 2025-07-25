@@ -6,13 +6,13 @@
 
   "description": "A html sharing service",
 
-  "main": "server.js",
+  "main": "index.js",
 
   "type": "commonjs",
 
   "scripts": {
 
-    "start": "node server.js"
+    "start": "node index.js"
 
   },
 
